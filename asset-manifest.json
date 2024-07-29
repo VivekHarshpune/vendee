@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vendee/static/css/main.ecf79013.css",
+    "main.css": "/vendee/static/css/main.68421795.css",
     "main.js": "/vendee/static/js/main.6b2cf006.js",
     "index.html": "/vendee/index.html",
-    "main.ecf79013.css.map": "/vendee/static/css/main.ecf79013.css.map",
+    "main.68421795.css.map": "/vendee/static/css/main.68421795.css.map",
     "main.6b2cf006.js.map": "/vendee/static/js/main.6b2cf006.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecf79013.css",
+    "static/css/main.68421795.css",
     "static/js/main.6b2cf006.js"
   ]
 }
